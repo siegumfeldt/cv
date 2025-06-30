@@ -2,7 +2,7 @@
 # Curriculum Vitae
 
 ## Erhvervserfaring
-- *2021-nu* - Senior Data Warehouse Manager, EIFO
+- *2021-nu* - Senior BI Developer, EIFO
 - *2019-2021* - Senior Data Platform Consultant, Innofactor
 - *2018-2019* - Principal Consultant, ITEG ApS
 - *2016-2018* - Senior Datawarehouse Manager, Alpha Insurance
@@ -10,38 +10,27 @@
 - *2007-2013* - Analytiker, Geomatic a/s
 - *2005-2007* - Konsulent, Epinion A/S
 
-<!-- 
-a   | b
---- | ----
-*2018-*  | Principal Consultant, ITEG ApS
-*2016-2018*  | Senior Datawarehouse Manager, Alpha Insurance
-*2013-2016*  | Datawarehousearkitekt/Udvikler, SDC
-*2007-2013*  | Analytiker, Geomatic a/s
-*2005-2007*  | Konsulent, Epinion A/S
--->
-
 ## Uddannelse
 
-- 2005: Cand. scient. pol - Aarhus Universitet (10,6 i snit)
-- 1997: Exam. art. i filosofi - Aarhus Universitet
-- 1995: Matematisk studentereksamen - Aalborg Katedralskole (10,7 i snit)
+- *2005* - Cand. scient. pol (Aarhus Universitet (10,6 i snit)
+- *1997* - Exam. art. i filosofi (Aarhus Universitet)
+- *1995* - Matematisk studentereksamen (Aalborg Katedralskole, 10,7 i snit)
 
 ## Profil
 
 Fleksibilitet, alsidighed, omhu og en løsningsorienteret tilgang til opgaverne er
 nok de fire egenskaber, der bedst opsummerer mig rent fagligt. I mine hidtidige
 jobs har min rolle altid været løst afgrænset, og det har givet mig mulighed for at
-arbejde pa mange forskellige omr  ̊ ader, hvilket jeg trives med.  ̊
+arbejde på mange forskellige områder, hvilket jeg trives med.  
 Jeg er hurtig til at sætte mig ind i nye problemstillinger, danne mig et overblik over
 behov og muligheder og finde steder, hvor jeg kan bidrage.
-Som person er jeg ganske udadvendt, og da jeg ogsa spænder ret bredt fagligt har  ̊
-jeg haft nemt ved at danne mig netværk pa mine arbejdspladser, hvilket jeg altid  ̊
-har oplevet som givende, bade personligt og i løsningen af mine opgaver.  ̊
+Som person er jeg ganske udadvendt, og da jeg også spænder ret bredt fagligt har
+jeg haft nemt ved at danne mig netværk på mine arbejdspladser, hvilket jeg altid
+har oplevet som givende, bpåde personligt og i løsningen af mine opgaver.
 
 ## Kompetencer
 
-SQL og databaser Jeg har 12 ars erfaring med relationelle databaser, heraf ti  ̊ ar p  ̊ a SQL Server og  ̊
-to pa Teradata. Jeg har i de  ̊ ar opbygget overordentligt solide evner til at skrive  ̊
+SQL og databaser Jeg har 12 ars erfaring med relationelle databaser, heraf ti år på SQL Server og to på Teradata. Jeg har i de år opbygget overordentligt solide evner til at skrive  ̊
 korrekt, enkel og læselig SQL – en del af mit arbejde i de sidste mange ar har  ̊
 derfor ogsa været at reviewe andre udvikleres kode.  ̊
 Jeg har desuden arbejdet en del med fysisk design og performanceoptimering pa ̊
@@ -96,13 +85,13 @@ engelsk.
 
 Her er de værktøjer, jeg bruger dagligt eller ugentligt lige nu:
 
-- Programmeringssprog: Python og SQL
-- Databaser o.l: SQL Server og PySpark / Fabric
-- Dataanalyse: Power BI / Fabric Semantic Models
-- Versionsstyring m.v.: Git, Azure DevOps, Markdown
-- ETL: Fabric Data Pipelines
+- *Programmeringssprog* - Python og SQL
+- *ETL* - Fabric Data Pipelines <small>(SSIS)</small>
+- *Databaser* - Fabric Lakehouses + PySpark, SQL Server
+- *Rapportering* - Fabric Semantic Models / Power BI
+- *Versionsstyring o.l.* - Git, Azure DevOps, Markdown
 
-<small>Dertil kommer en masse andet, som jeg har brugt i kortere eller længere tid: Jeg har skrevet SQL på Teradata, lavet datamodellering i ERwin og SQL Developer Data Modeller, skrevet C# og C, lavet analyser i Tableau, SPSS, SAS og STATA, brugt Mercurial og Subversion, lavet ETL med SSIS og SAS DI Studio. Alle tidligere udgaver af mit CV var i LaTeX.</small>
+<small>Dertil kommer en masse andet, som jeg har brugt i kortere eller længere tid: Jeg har skrevet SQL på Teradata, lavet datamodellering i ERwin og SQL Developer Data Modeller, skrevet C# og C, lavet analyser i Tableau, SPSS, SAS og STATA, brugt Mercurial og Subversion, lavet ETL med SSIS og SAS DI Studio, rapporter med SSRS. Engang var mit CV i LaTeX.</small>
 
 ## Sprog
 
