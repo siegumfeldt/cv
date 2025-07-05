@@ -14,10 +14,12 @@ jobs:
         run: |-
           npm install -g md-to-pdf
           echo; echo "Generating PDF"
-          md-to-pdf --launch-options '{ "args": ["--no-sandbox"] }' cv.md
+          md-to-pdf --launch-options '{ "args": ["--no-sandbox"] }' --as-html cv.md
           ls
       
       - uses: actions/upload-artifact@v4
         with:
-          name: cv.pdf
-          path: cv.pdf
+          name: cv.html
+          path: cv.html
+
+          
