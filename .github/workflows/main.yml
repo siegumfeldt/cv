@@ -1,0 +1,23 @@
+name: convert
+
+on:
+  push:
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build
+        run: |-
+          npm install -g md-to-pdf
+          echo; echo "Generating PDF"
+          md-to-pdf cv.md
+          ls
+      
+      - uses: actions/upload-artifact@v1
+        with:
+          name: cv.pdf
+          path: cv.pdf
