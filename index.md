@@ -1,4 +1,3 @@
-<small>CV, Frederik Siegumfeldt, 2025</small>
 # Curriculum Vitae
 
 ## Erhvervserfaring
