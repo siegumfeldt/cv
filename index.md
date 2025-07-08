@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-layout: page
+layout: default
 ---
 
 ## Profil
