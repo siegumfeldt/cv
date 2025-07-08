@@ -1,6 +1,6 @@
 ---
+title: My First Page
 layout: default
-title: Curriculum Vitae
 ---
 
 # Profil
