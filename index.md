@@ -5,7 +5,7 @@ layout: default
 
 ## Profil
 
-Jeg har mange års erfaring som BI-udvikler og -arkitekt på små og store løsninger, både on-prem og i skyen, cirka halvdelen af tiden som konsulent. De sidste knap to år har jeg primært arbejdet (som del af et mindre team) med at opbygge en dataplatform i Fabric, primært i PySpark og Fabric Data Pipelines. Før det har jeg arbejdet 15 års som arkitekt og   datamodellør, primært på Microsoft BI-produktstakken og primært on-prem.
+Jeg har mange års erfaring som BI-udvikler, -arkitekt og -datamodellør, både on-prem og i skyen. De sidste knap to år har jeg primært arbejdet med at opbygge en dataplatform i Fabric, primært i PySpark og Fabric Data Pipelines, før det har jeg arbejdet 15 års på på små og store løsninger, primært på Microsoft BI-produktstakken og on-prem. Cirka halvdelen af mit arbejdsliv har være i konsulentbranchen, halvdelen som fastansat. Som konsulent har jeg ofte været den eneste BI-ressource på min daglige arbejdsplads, men jeg sætter også stor pris på at være en del af et fagligt miljø.
 
 ## Erhvervserfaring
 - *2021-nu* - Senior BI Developer, EIFO
@@ -18,7 +18,7 @@ Jeg har mange års erfaring som BI-udvikler og -arkitekt på små og store løsn
 
 ## Uddannelse
 
-- *2005* - Cand. scient. pol (Aarhus Universitet (10.6 i snit)
+- *2005* - Cand. scient. pol (Aarhus Universitet, 10.6 i snit)
 - *1997* - Exam. art. i filosofi (Aarhus Universitet)
 - *1995* - Matematisk studentereksamen (Aalborg Katedralskole, 10.7 i snit)
 
@@ -46,11 +46,15 @@ Værktøjer, jeg bruger dagligt eller ugentligt lige nu:
 - *Rapportering* - Fabric Semantic Models + DAX, Power BI
 - *Versionsstyring o.l.* - Git, Azure DevOps, Github Copilot
 
-<small>Dertil kommer en masse andet, som jeg har brugt i kortere eller længere tid: Jeg har skrevet C#, C++ og C, lavet datamodellering i ERwin og Oracle's SQL Developer Data Modeller, analyser i SPSS, SAS og STATA, brugt Mercurial og Subversion, lavet ETL med Azure Data Factory, SSIS og SAS DI Studio, rapporter med SSRS og Tableau og skrevet opgaver (og CV'er) i LaTeX.</small>  
+<small>Dertil kommer en masse andet, som jeg har brugt i kortere eller længere tid: Jeg har skrevet C#, C++ og C, lavet ETL med Azure Data Factory, SSIS og SAS DI Studio, rapporter med SSRS og Tableau, lavet datamodellering i ERwin og Oracle's SQL Developer Data Modeller, analyser i SPSS, SAS og STATA, brugt Mercurial og Subversion og skrevet opgaver (og CV'er) i LaTeX.</small>  
 
 ## Sprog
 
 - *Dansk* - Modersmål
 - *Engelsk* - Flydende, skrift og tale
 
-København, juli 2025
+## Personlige data
+
+48 år, gift, far til to teenagere
+
+[København, juli 2025]
